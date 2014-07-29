@@ -1,6 +1,6 @@
-% title: Title of my presentation
-% subtitle: And a subtitle
-% author: Firstname Lastname
+% title: Programing from Zero to Repo Hero
+% subtitle: via Javascript
+% author: Paige Hubbell
 % author: Other info to put on the author line
 % thankyou: Thanks everyone!
 % thankyou_details: And especially these people:
@@ -9,13 +9,14 @@
 % favicon: http://www.stanford.edu/favicon.ico
 
 ---
-title: Programing from Zero to Repo Hero
-subtitle: via JavaScript
+title: Debunking some Myths
 build_lists: true
 
-- pressing 'f' toggle fullscreen
-- pressing 'w' toggles widescreen
-- 'o' toggles overview mode
+- you don't need to be good at math
+- only super nerds can bend computers to their will
+- programming is only for developers/programers/evil genuises
+- goal: understanding variables and how to get started in Javascript
+- star power bonus level: logic, **if** we've gotten this far **then** we're doing great!
 
 ---
 title: What is a Program?
@@ -34,7 +35,7 @@ build_lists: true
 
 - computers only know one real language, on and off
 - luckily we have built ontop of that!
-- now we can speak a more complex languages to computers
+- participation time! Name some computerlanguages you've heard of.
 
 ---
 title: So how do you give instrucitons to Computers?
@@ -47,6 +48,17 @@ class: img-top-center
 - This slide has a class that was defined in theme/css/custom.css
 
 <footer class="source"> Always cite your sources! </footer>
+
+---
+title: What is Javascript
+subtitle: and what is it good for?
+class: img-top-center
+
+> JavaScript (JS) is a dynamic computer programming language.[5] It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed.[5] It is also being used in server-side network programming (with Node.js), game development and the creation of desktop and mobile applications.
+
+- don't forget Javascript =/= Java!
+
+<footer class="source"> wikipedia </footer>
 
 ---
 title: Segue slide
